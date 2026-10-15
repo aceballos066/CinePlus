@@ -7,7 +7,7 @@ public class Cliente extends Persona {
     private double descuento;
 
     /**
-     * Crea un cliente e inicializa su parte heredada con super.
+
      * @param documento identificacion
      * @param nombre nombre completo
      * @param correo correo electronico

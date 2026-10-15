@@ -10,7 +10,6 @@ public class Operario extends Persona {
     private double salario;
 
     /**
-     * Crea el operario que registra las ventas.
      * @param documento identificacion
      * @param nombre nombre completo
      * @param correo correo electronico
